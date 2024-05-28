@@ -1,0 +1,101 @@
+*{padding:0; margin: 0}
+
+body{
+	backround: #E2BFB3; margin-top: 25px;
+}
+
+header{
+	width: 900px; background: white; padding: 25px;
+	margin: auto; text-align: center; color: #A87676;
+}
+
+menu{
+	width: 900px; background: #DBAFA0; margin: auto; 
+	padding: 25px;
+}
+
+menu a {
+	color: floralwhite; text-decoration: none;
+	margin-right: 20px;
+}
+
+menu a:hover {
+	color: deeppink;
+	text-decoration: underline; 
+}
+
+article {
+	width:900px; background: #FFBE98;
+	margin: auto; padding: 25px;
+	text-align: justify;
+}        
+
+article h1 {
+	margin: 0 0 15px 0; 
+	color: floralwhite;
+}
+
+.dankoe {
+	padding: 5px;
+	object-fit: cover;
+}
+
+.dankoe-2 {
+	padding: 10px;
+	object-fit: cover;
+}
+
+article p {
+	margin: 0 0 25px 0;
+	color: floralwhite;
+}
+
+article h2 {
+	margin: auto;
+	text-align: center;
+	color: #A87676;
+}
+
+article h4 {
+	width: 800px; background: #A87676; margin: auto;
+	padding: 25px;
+	text-align: center;
+	margin: 25px 40px 20px 30px;
+	color: floralwhite;
+}
+
+article img {
+	float: right;
+	width: 250px; height: 135px;
+	margin: auto;
+}
+
+article h5 {
+	width: 560px; background: #A87676; margin: 0 0 0 0;
+	padding: 30px; color: floralwhite;
+}
+
+article a:hover{
+	color: deeppink;
+	text-decoration: underline;
+}
+
+article a {
+	color: floralwhite;
+}
+body h3 {
+	width: 900px; background: #eb4d4b; padding: 25px;
+	margin: auto;
+	text-align: center;
+	color: floralwhite;
+}
+
+footer {
+	width: 900px; background: #A34343; padding: 25px;
+	margin: auto;
+	text-align: center;
+}
+
+footer p {
+	color: floralwhite;
+}
